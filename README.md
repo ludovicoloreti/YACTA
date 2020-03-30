@@ -10,7 +10,7 @@ Static and some dynamic analysis are done using yara, virustotal, strings to get
 
 First, be sure to install YARA global:
 
-```
+```bash
 # CentOS/Red Hat
 sudo yum install yara-devel
 
@@ -23,7 +23,7 @@ sudo brew install yara
 
 Then after git cloned the repo, go to the root and type
 
-```
+```bash
 npm install
 ```
 
@@ -31,11 +31,13 @@ npm install
 
 To use it, make sure to have a "/file" folder inside the root project as shown here, with the list (or the lonely) of Sample to analyze, then simply type
 
-```
+```bash
 node yacta.js [ FILE_NAME_TO_ANALYZE ]
 ```
 
 And after that, you will see in the "results" folder two files: one, the simpliest, to use (if you want) with the stack ELK, and the other, more verbose, as you want.
+
+_tested on MacOS_
 
 ## EXAMPLE RESULT
 
@@ -834,33 +836,3 @@ And after that, you will see in the "results" folder two files: one, the simplie
 ### BYE
 
 Thank you, cya!
-
-P.S. tested on MacOS
-
-### ART SKETCH
-
-MMMMMMMMMMMMMMMMMMMMmsyNMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMM/..hMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMy:MMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMN.mMMMMMMMmymMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMM+sMMMMMMM:.+MMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMh-MMMMMMN-dMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMddmMMMMMMMM-dMMMMM/sMMMMMMMMMd/--+NMMM
-MMMMMMMMMMd-.../NMMMMMM++dddms:MMMMMMMMMM:....sMMM
-MMMMMMMMMMs.....dMMms/........:sNMMMMmy++ys/+yMMMM
-MMMMMMMMMMMho+sy/o+..............oho/odMMMMMMMMMMM
-MMMMMMMMMMMMMMMMm-.................dMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMM:................../MMMMMMMMMMMMMM
-MdsshMMMMMMMMMMm....................NMMMMMMMMMMMMM
-/....:hyyssoooo+....................yhdmNMMMMMMmdM
-:....-hmmNNMMMMMo..................odhyysooooo/..-
-NyoosNMMMMMMMMMMM+................-mMMMMMMMMMMmooh
-MMMMMMMMMMMMMMMmo/s/............/ddo/sdMNdhmMMMMMM
-MMMMMMMMMMNMNs/omMMMh.o/:----ohNMMMMMms-....:mMMMM
-MMMMMMMMN-.-+hMMMMMN:yMMMMMy:MMMMMMMMMM......sMMMM
-MMMMMMMMMsoyMMMMMMM++MMMMMMN.mMMMMMMMMMd/--:sMMMMM
-MMMMMMMMMMMMMMMMMMh:NMMMMMMM:odMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMm-dMMMMMMM:...oMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMM:yMMMMMMMMo-.-yMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMh-.NMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMNsyMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
