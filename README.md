@@ -41,13 +41,13 @@ const vtAPIKey = 'sakdak8adssad8asdas0d123stella';
 
 ## USAGE
 
-To use it, make sure to have a "/file" folder inside the root project as shown here, with the list (or the lonely) of Sample to analyze, then simply type
+To use it, make sure to have a "/files" folder inside the root project as shown here, with the list (or the lonely) of Sample to analyze, then simply type
 
 ```bash
 node yacta.js [ FILE_NAME_TO_ANALYZE ]
 ```
 
-And after that, you will see in the "results" folder two files: one, the simpliest, to use (if you want) with the stack ELK, and the other, more verbose, as you want.
+And after that, you will see in the "/results" folder two files: one, the simpliest, to use (if you want) with the stack ELK, and the other, more verbose, as you want.
 
 _tested on MacOS_
 
