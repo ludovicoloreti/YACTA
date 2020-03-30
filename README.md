@@ -27,6 +27,18 @@ Then after git cloned the repo, go to the root and type
 npm install
 ```
 
+Remember to add your [*virustotal api key*](https://developers.virustotal.com/reference#getting-started) and put it instead of `process.env.VIRUSTOTAL_API_KEY`in `yacta.js` at line `18`
+
+```
+const vtAPIKey = process.env.VIRUSTOTAL_API_KEY;
+```
+
+For example it should become something like this:
+
+```
+const vtAPIKey = 'sakdak8adssad8asdas0d123stella';
+```
+
 ## USAGE
 
 To use it, make sure to have a "/file" folder inside the root project as shown here, with the list (or the lonely) of Sample to analyze, then simply type
