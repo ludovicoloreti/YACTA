@@ -1,0 +1,8 @@
+include "./files/mitre.yar"
+include "./files/anti_xx.yar"
+include "./files/ip.yar"
+include "./files/suspicious.yar"
+include "./files/url.yar"
+include "./files/suspicious_1.yar"
+include "./files/compiler.yar"
+include "./files/packer.yar"

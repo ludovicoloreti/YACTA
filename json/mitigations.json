@@ -1,0 +1,4646 @@
+[
+  {
+    "techniques": "T1156",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1134",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1134",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1015",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1035",
+        "name": "Limit Access to Resource Over Network",
+        "url": "https://attack.mitre.org/mitigations/M1035/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1015",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1035",
+        "name": "Limit Access to Resource Over Network",
+        "url": "https://attack.mitre.org/mitigations/M1035/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1531",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1087",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1098",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1098",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1182",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1182",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1103",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1103",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1155",
+    "mitigations": [
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1155",
+    "mitigations": [
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1527",
+    "mitigations": [
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1527",
+    "mitigations": [
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1017",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1138",
+    "mitigations": [
+      {
+        "id": "M1052",
+        "name": "User Account Control",
+        "url": "https://attack.mitre.org/mitigations/M1052/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1138",
+    "mitigations": [
+      {
+        "id": "M1052",
+        "name": "User Account Control",
+        "url": "https://attack.mitre.org/mitigations/M1052/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1010",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1123",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1131",
+    "mitigations": [
+      {
+        "id": "M1025",
+        "name": "Privileged Process Integrity",
+        "url": "https://attack.mitre.org/mitigations/M1025/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1119",
+    "mitigations": [
+      {
+        "id": "M1029",
+        "name": "Remote Data Storage",
+        "url": "https://attack.mitre.org/mitigations/M1029/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1020",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1197",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1197",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1139",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1009",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1067",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1046",
+        "name": "Boot Integrity",
+        "url": "https://attack.mitre.org/mitigations/M1046/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1217",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1176",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1033",
+        "name": "Limit Software Installation",
+        "url": "https://attack.mitre.org/mitigations/M1033/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1110",
+    "mitigations": [
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1036",
+        "name": "Account Use Policies",
+        "url": "https://attack.mitre.org/mitigations/M1036/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1088",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1052",
+        "name": "User Account Control",
+        "url": "https://attack.mitre.org/mitigations/M1052/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1088",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1052",
+        "name": "User Account Control",
+        "url": "https://attack.mitre.org/mitigations/M1052/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1191",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1191",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1042",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1146",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1039",
+        "name": "Environment Variable Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1039/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1115",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1522",
+    "mitigations": [
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1538",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1526",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1116",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1059",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1043",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1092",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1500",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1223",
+    "mitigations": [
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1223",
+    "mitigations": [
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1109",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1109",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1122",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1122",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1175",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1175",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1090",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1090",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1196",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1196",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1136",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1003",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1043",
+        "name": "Credential Access Protection",
+        "url": "https://attack.mitre.org/mitigations/M1043/"
+      },
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1015",
+        "name": "Active Directory Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1015/"
+      },
+      {
+        "id": "M1025",
+        "name": "Privileged Process Integrity",
+        "url": "https://attack.mitre.org/mitigations/M1025/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1503",
+    "mitigations": [
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1081",
+    "mitigations": [
+      {
+        "id": "M1015",
+        "name": "Active Directory Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1015/"
+      },
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1214",
+    "mitigations": [
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1094",
+    "mitigations": [
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1024",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1207",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1038",
+    "mitigations": [
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1044",
+        "name": "Restrict Library Loading",
+        "url": "https://attack.mitre.org/mitigations/M1044/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1038",
+    "mitigations": [
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1044",
+        "name": "Restrict Library Loading",
+        "url": "https://attack.mitre.org/mitigations/M1044/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1038",
+    "mitigations": [
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1044",
+        "name": "Restrict Library Loading",
+        "url": "https://attack.mitre.org/mitigations/M1044/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1073",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1002",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1485",
+    "mitigations": [
+      {
+        "id": "M1053",
+        "name": "Data Backup",
+        "url": "https://attack.mitre.org/mitigations/M1053/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1132",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1022",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1486",
+    "mitigations": [
+      {
+        "id": "M1053",
+        "name": "Data Backup",
+        "url": "https://attack.mitre.org/mitigations/M1053/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1001",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1074",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1030",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1530",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1213",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1005",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1039",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1025",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1491",
+    "mitigations": [
+      {
+        "id": "M1053",
+        "name": "Data Backup",
+        "url": "https://attack.mitre.org/mitigations/M1053/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1140",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1089",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1488",
+    "mitigations": [
+      {
+        "id": "M1053",
+        "name": "Data Backup",
+        "url": "https://attack.mitre.org/mitigations/M1053/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1487",
+    "mitigations": [
+      {
+        "id": "M1053",
+        "name": "Data Backup",
+        "url": "https://attack.mitre.org/mitigations/M1053/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1172",
+    "mitigations": [
+      {
+        "id": "M1020",
+        "name": "SSL/TLS Inspection",
+        "url": "https://attack.mitre.org/mitigations/M1020/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1483",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1482",
+    "mitigations": [
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1189",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      },
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1157",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1157",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1173",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1040",
+        "name": "Behavior Prevention on Endpoint",
+        "url": "https://attack.mitre.org/mitigations/M1040/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      },
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1514",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1114",
+    "mitigations": [
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1519",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1519",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1499",
+    "mitigations": [
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1480",
+    "mitigations": [
+      {
+        "id": "M1055",
+        "name": "Do Not Mitigate",
+        "url": "https://attack.mitre.org/mitigations/M1055/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1106",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1129",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1048",
+    "mitigations": [
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1041",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1011",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1052",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1190",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      },
+      {
+        "id": "M1016",
+        "name": "Vulnerability Scanning",
+        "url": "https://attack.mitre.org/mitigations/M1016/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1203",
+    "mitigations": [
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1212",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1019",
+        "name": "Threat Intelligence Program",
+        "url": "https://attack.mitre.org/mitigations/M1019/"
+      },
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1211",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      },
+      {
+        "id": "M1019",
+        "name": "Threat Intelligence Program",
+        "url": "https://attack.mitre.org/mitigations/M1019/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1068",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1019",
+        "name": "Threat Intelligence Program",
+        "url": "https://attack.mitre.org/mitigations/M1019/"
+      },
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1210",
+    "mitigations": [
+      {
+        "id": "M1016",
+        "name": "Vulnerability Scanning",
+        "url": "https://attack.mitre.org/mitigations/M1016/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1019",
+        "name": "Threat Intelligence Program",
+        "url": "https://attack.mitre.org/mitigations/M1019/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1133",
+    "mitigations": [
+      {
+        "id": "M1035",
+        "name": "Limit Access to Resource Over Network",
+        "url": "https://attack.mitre.org/mitigations/M1035/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1133",
+    "mitigations": [
+      {
+        "id": "M1035",
+        "name": "Limit Access to Resource Over Network",
+        "url": "https://attack.mitre.org/mitigations/M1035/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1181",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1181",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1008",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1107",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1006",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1044",
+    "mitigations": [
+      {
+        "id": "M1052",
+        "name": "User Account Control",
+        "url": "https://attack.mitre.org/mitigations/M1052/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1044",
+    "mitigations": [
+      {
+        "id": "M1052",
+        "name": "User Account Control",
+        "url": "https://attack.mitre.org/mitigations/M1052/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1083",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1222",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1495",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1046",
+        "name": "Boot Integrity",
+        "url": "https://attack.mitre.org/mitigations/M1046/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1187",
+    "mitigations": [
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1144",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1061",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1484",
+    "mitigations": [
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1148",
+    "mitigations": [
+      {
+        "id": "M1039",
+        "name": "Environment Variable Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1039/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1200",
+    "mitigations": [
+      {
+        "id": "M1034",
+        "name": "Limit Hardware Installation",
+        "url": "https://attack.mitre.org/mitigations/M1034/"
+      },
+      {
+        "id": "M1035",
+        "name": "Limit Access to Resource Over Network",
+        "url": "https://attack.mitre.org/mitigations/M1035/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1158",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1158",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1147",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1143",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1179",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1179",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1179",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1062",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1183",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1183",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1183",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1525",
+    "mitigations": [
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1054",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      },
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1066",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1070",
+    "mitigations": [
+      {
+        "id": "M1029",
+        "name": "Remote Data Storage",
+        "url": "https://attack.mitre.org/mitigations/M1029/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      },
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1202",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1490",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1053",
+        "name": "Data Backup",
+        "url": "https://attack.mitre.org/mitigations/M1053/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1056",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1056",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1141",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1130",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1118",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1118",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1534",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1208",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1215",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1049",
+        "name": "Antivirus/Antimalware",
+        "url": "https://attack.mitre.org/mitigations/M1049/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1142",
+    "mitigations": [
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1161",
+    "mitigations": [
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1149",
+    "mitigations": [
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1171",
+    "mitigations": [
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1177",
+    "mitigations": [
+      {
+        "id": "M1044",
+        "name": "Restrict Library Loading",
+        "url": "https://attack.mitre.org/mitigations/M1044/"
+      },
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      },
+      {
+        "id": "M1043",
+        "name": "Credential Access Protection",
+        "url": "https://attack.mitre.org/mitigations/M1043/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1177",
+    "mitigations": [
+      {
+        "id": "M1044",
+        "name": "Restrict Library Loading",
+        "url": "https://attack.mitre.org/mitigations/M1044/"
+      },
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      },
+      {
+        "id": "M1043",
+        "name": "Credential Access Protection",
+        "url": "https://attack.mitre.org/mitigations/M1043/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1159",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1160",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1160",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1152",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1152",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1152",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1168",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1168",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1162",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1037",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1037",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1185",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1036",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1031",
+    "mitigations": [
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1112",
+    "mitigations": [
+      {
+        "id": "M1024",
+        "name": "Restrict Registry Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1024/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1170",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1170",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1104",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1188",
+    "mitigations": [
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1026",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1079",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1096",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1128",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1498",
+    "mitigations": [
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1046",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1126",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1135",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1040",
+    "mitigations": [
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1040",
+    "mitigations": [
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1050",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1050",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1027",
+    "mitigations": [
+      {
+        "id": "M1049",
+        "name": "Antivirus/Antimalware",
+        "url": "https://attack.mitre.org/mitigations/M1049/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1137",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1502",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1502",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1075",
+    "mitigations": [
+      {
+        "id": "M1052",
+        "name": "User Account Control",
+        "url": "https://attack.mitre.org/mitigations/M1052/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1097",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1015",
+        "name": "Active Directory Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1015/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1174",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1201",
+    "mitigations": [
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1034",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1034",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1120",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1069",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1150",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1150",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1150",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1205",
+    "mitigations": [
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1205",
+    "mitigations": [
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1205",
+    "mitigations": [
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1013",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1013",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1086",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1504",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      },
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1504",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      },
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1145",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1057",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1186",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1093",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1055",
+    "mitigations": [
+      {
+        "id": "M1040",
+        "name": "Behavior Prevention on Endpoint",
+        "url": "https://attack.mitre.org/mitigations/M1040/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1055",
+    "mitigations": [
+      {
+        "id": "M1040",
+        "name": "Behavior Prevention on Endpoint",
+        "url": "https://attack.mitre.org/mitigations/M1040/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1012",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1163",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1164",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1108",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1108",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1060",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1121",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1121",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1117",
+    "mitigations": [
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1117",
+    "mitigations": [
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1219",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1076",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1035",
+        "name": "Limit Access to Resource Over Network",
+        "url": "https://attack.mitre.org/mitigations/M1035/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1105",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1105",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1021",
+    "mitigations": [
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1018",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1091",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1034",
+        "name": "Limit Hardware Installation",
+        "url": "https://attack.mitre.org/mitigations/M1034/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1091",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1034",
+        "name": "Limit Hardware Installation",
+        "url": "https://attack.mitre.org/mitigations/M1034/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1496",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1536",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1014",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1085",
+    "mitigations": [
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1085",
+    "mitigations": [
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1494",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1178",
+    "mitigations": [
+      {
+        "id": "M1015",
+        "name": "Active Directory Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1015/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1198",
+    "mitigations": [
+      {
+        "id": "M1024",
+        "name": "Restrict Registry Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1024/"
+      },
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1198",
+    "mitigations": [
+      {
+        "id": "M1024",
+        "name": "Restrict Registry Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1024/"
+      },
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1184",
+    "mitigations": [
+      {
+        "id": "M1052",
+        "name": "User Account Control",
+        "url": "https://attack.mitre.org/mitigations/M1052/"
+      },
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1053",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1053",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1053",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1029",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1113",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1180",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1064",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1064",
+    "mitigations": [
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1048",
+        "name": "Application Isolation and Sandboxing",
+        "url": "https://attack.mitre.org/mitigations/M1048/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1063",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1101",
+    "mitigations": [
+      {
+        "id": "M1025",
+        "name": "Privileged Process Integrity",
+        "url": "https://attack.mitre.org/mitigations/M1025/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1167",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1505",
+    "mitigations": [
+      {
+        "id": "M1045",
+        "name": "Code Signing",
+        "url": "https://attack.mitre.org/mitigations/M1045/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1035",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1058",
+    "mitigations": [
+      {
+        "id": "M1024",
+        "name": "Restrict Registry Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1024/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1058",
+    "mitigations": [
+      {
+        "id": "M1024",
+        "name": "Restrict Registry Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1024/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1489",
+    "mitigations": [
+      {
+        "id": "M1024",
+        "name": "Restrict Registry Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1024/"
+      },
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1166",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1166",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1051",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1035",
+        "name": "Limit Access to Resource Over Network",
+        "url": "https://attack.mitre.org/mitigations/M1035/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1023",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1218",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1218",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1216",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1216",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1518",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1045",
+    "mitigations": [
+      {
+        "id": "M1049",
+        "name": "Antivirus/Antimalware",
+        "url": "https://attack.mitre.org/mitigations/M1049/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1153",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1151",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1151",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1193",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      },
+      {
+        "id": "M1049",
+        "name": "Antivirus/Antimalware",
+        "url": "https://attack.mitre.org/mitigations/M1049/"
+      },
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1192",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1194",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      },
+      {
+        "id": "M1049",
+        "name": "Antivirus/Antimalware",
+        "url": "https://attack.mitre.org/mitigations/M1049/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1071",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1032",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1020",
+        "name": "SSL/TLS Inspection",
+        "url": "https://attack.mitre.org/mitigations/M1020/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1095",
+    "mitigations": [
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1165",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1165",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1528",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      },
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1539",
+    "mitigations": [
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      },
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1492",
+    "mitigations": [
+      {
+        "id": "M1029",
+        "name": "Remote Data Storage",
+        "url": "https://attack.mitre.org/mitigations/M1029/"
+      },
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      },
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1169",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1206",
+    "mitigations": [
+      {
+        "id": "M1028",
+        "name": "Operating System Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1028/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1195",
+    "mitigations": [
+      {
+        "id": "M1016",
+        "name": "Vulnerability Scanning",
+        "url": "https://attack.mitre.org/mitigations/M1016/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1019",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1046",
+        "name": "Boot Integrity",
+        "url": "https://attack.mitre.org/mitigations/M1046/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1082",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1016",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1049",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1033",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1007",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1529",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1124",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1501",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1033",
+        "name": "Limit Software Installation",
+        "url": "https://attack.mitre.org/mitigations/M1033/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1080",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1050",
+        "name": "Exploit Protection",
+        "url": "https://attack.mitre.org/mitigations/M1050/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1221",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1049",
+        "name": "Antivirus/Antimalware",
+        "url": "https://attack.mitre.org/mitigations/M1049/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1072",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1029",
+        "name": "Remote Data Storage",
+        "url": "https://attack.mitre.org/mitigations/M1029/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1015",
+        "name": "Active Directory Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1015/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1072",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1029",
+        "name": "Remote Data Storage",
+        "url": "https://attack.mitre.org/mitigations/M1029/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1015",
+        "name": "Active Directory Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1015/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1209",
+    "mitigations": [
+      {
+        "id": "M1022",
+        "name": "Restrict File and Directory Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1022/"
+      },
+      {
+        "id": "M1024",
+        "name": "Restrict Registry Permissions",
+        "url": "https://attack.mitre.org/mitigations/M1024/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1099",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1537",
+    "mitigations": [
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1493",
+    "mitigations": [
+      {
+        "id": "M1041",
+        "name": "Encrypt Sensitive Information",
+        "url": "https://attack.mitre.org/mitigations/M1041/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1154",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1154",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1127",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1127",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1199",
+    "mitigations": [
+      {
+        "id": "M1052",
+        "name": "User Account Control",
+        "url": "https://attack.mitre.org/mitigations/M1052/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1111",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1065",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1535",
+    "mitigations": [
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1204",
+    "mitigations": [
+      {
+        "id": "M1017",
+        "name": "User Training",
+        "url": "https://attack.mitre.org/mitigations/M1017/"
+      },
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      },
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1078",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1013",
+        "name": "Application Developer Guidance",
+        "url": "https://attack.mitre.org/mitigations/M1013/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1078",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1013",
+        "name": "Application Developer Guidance",
+        "url": "https://attack.mitre.org/mitigations/M1013/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1078",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1013",
+        "name": "Application Developer Guidance",
+        "url": "https://attack.mitre.org/mitigations/M1013/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1078",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      },
+      {
+        "id": "M1032",
+        "name": "Multi-factor Authentication",
+        "url": "https://attack.mitre.org/mitigations/M1032/"
+      },
+      {
+        "id": "M1047",
+        "name": "Audit",
+        "url": "https://attack.mitre.org/mitigations/M1047/"
+      },
+      {
+        "id": "M1013",
+        "name": "Application Developer Guidance",
+        "url": "https://attack.mitre.org/mitigations/M1013/"
+      },
+      {
+        "id": "M1037",
+        "name": "Filter Network Traffic",
+        "url": "https://attack.mitre.org/mitigations/M1037/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1125",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1497",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1497",
+    "mitigations": []
+  },
+  {
+    "techniques": "T1102",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1102",
+    "mitigations": [
+      {
+        "id": "M1031",
+        "name": "Network Intrusion Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1031/"
+      },
+      {
+        "id": "M1021",
+        "name": "Restrict Web-Based Content",
+        "url": "https://attack.mitre.org/mitigations/M1021/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1506",
+    "mitigations": [
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1506",
+    "mitigations": [
+      {
+        "id": "M1054",
+        "name": "Software Configuration",
+        "url": "https://attack.mitre.org/mitigations/M1054/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1100",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1100",
+    "mitigations": [
+      {
+        "id": "M1051",
+        "name": "Update Software",
+        "url": "https://attack.mitre.org/mitigations/M1051/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1077",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1027",
+        "name": "Password Policies",
+        "url": "https://attack.mitre.org/mitigations/M1027/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1047",
+    "mitigations": [
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1084",
+    "mitigations": [
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1028",
+    "mitigations": [
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1028",
+    "mitigations": [
+      {
+        "id": "M1030",
+        "name": "Network Segmentation",
+        "url": "https://attack.mitre.org/mitigations/M1030/"
+      },
+      {
+        "id": "M1042",
+        "name": "Disable or Remove Feature or Program",
+        "url": "https://attack.mitre.org/mitigations/M1042/"
+      },
+      {
+        "id": "M1026",
+        "name": "Privileged Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1026/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1004",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      },
+      {
+        "id": "M1018",
+        "name": "User Account Management",
+        "url": "https://attack.mitre.org/mitigations/M1018/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1220",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  },
+  {
+    "techniques": "T1220",
+    "mitigations": [
+      {
+        "id": "M1038",
+        "name": "Execution Prevention",
+        "url": "https://attack.mitre.org/mitigations/M1038/"
+      }
+    ]
+  }
+]

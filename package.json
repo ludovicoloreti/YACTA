@@ -1,0 +1,32 @@
+{
+  "name": "YACTA",
+  "version": "1.0.1",
+  "description": "Yet Another (nodejs) Cyber Threat Analyzer",
+  "main": "yacta.js",
+  "scripts": {
+    "dev": "nodemon --watch results server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "yacta",
+    "cyber security",
+    "cyber threat",
+    "malware",
+    "malware analysis",
+    "yara",
+    "yara rules",
+    "virustotal",
+    "report"
+  ],
+  "author": "Ludovico Loreti",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.19.2",
+    "file-type": "14.1.4",
+    "fs": "0.0.1-security",
+    "md5-file": "4.0.0",
+    "path": "0.12.7",
+    "sha256-file": "1.0.0",
+    "yara": "2.2.0"
+  }
+}
